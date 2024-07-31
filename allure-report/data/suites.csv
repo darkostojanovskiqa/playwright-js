@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 30 11:40:38 CEST 2024","Tue Jul 30 11:40:39 CEST 2024","399","chromium","API_Testing\deleteUser.spec.js","","","","DELETE User",""
+"passed","Tue Jul 30 10:53:52 CEST 2024","Tue Jul 30 10:53:53 CEST 2024","515","chromium","API_Testing\updateUser.spec.js","","","","PUT Update User",""
+"passed","Tue Jul 30 11:40:38 CEST 2024","Tue Jul 30 11:40:39 CEST 2024","310","chromium","API_Testing\deleteUser.spec.js","","","","GET Users",""
