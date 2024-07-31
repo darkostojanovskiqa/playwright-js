@@ -46,6 +46,7 @@ test.describe('HomePage Tests', () => {
       name: 'AboutUs Page Modal Screenshot',
       path: 'screenshots/aboutus-modal-screenshot.png',
       type: 'image/png'
+      //Test
     });
     //await homePage.clickAboutUsCloseButton();
 
